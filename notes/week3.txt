@@ -1,0 +1,6 @@
+hw:
+marks: 100
+
+lab: 
+marks: 100
+remarks: use markdown cells instead of code blocks to write theoretical answers
