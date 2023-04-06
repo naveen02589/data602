@@ -1,2 +1,2 @@
-hw: 80, did not run completely, had multiple errors
+hw: 100
 lab: 100
